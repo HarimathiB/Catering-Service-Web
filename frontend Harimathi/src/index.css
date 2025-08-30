@@ -1,0 +1,23 @@
+/* Reset & base styles */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body {
+  background: #ffffff;
+  color: #333;
+  line-height: 1.6;
+}
+
+/* Smooth scroll for navbar links */
+html {
+  scroll-behavior: smooth;
+}
+
+/* General section spacing */
+section {
+  padding: 60px 20px;
+}
